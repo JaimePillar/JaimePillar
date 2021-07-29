@@ -10,6 +10,8 @@
   <img align="center" alt="Jaime-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
   <img align="center" alt="Jaime-Matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
   <img align="center" alt="Jaime-Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Jaime-Hadoop" height="40" width="40" src="https://cdn.iconscout.com/icon/free/png-64/hadoop-226007.png">
   <img align="center" alt="Jaime-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+    <img align="center" alt="Jaime-Linux" height="40" width="40" src="https://cdn.icon-icons.com/icons2/2415/PNG/128/linux_original_logo_icon_146433.png">
   <img align="center" alt="Jaime-R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
   
