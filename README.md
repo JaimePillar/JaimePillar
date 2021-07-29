@@ -5,10 +5,8 @@
   </div>
   <a href="https://github.com/jaimepillar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img left="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
+  <img left="200em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
   
-  <img align="down" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=false" width="400" height="220" />
- 
   <img align="center" alt="Jaime-IBMWatson" height="50" width="50" src="https://img.icons8.com/officel/2x/ibm-watson.png">
   <img align="center" alt="Jaime-PowerBI" height="50" width="50" src="https://img.icons8.com/color/2x/power-bi.png">
   <img align="center" alt="Jaime-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
