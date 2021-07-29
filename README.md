@@ -1,7 +1,7 @@
 ## Eu sou Jaime Pillar 
 <a href="https://github.com/jaimepillar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-  <img Height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
+  <img right="180em"  src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
   <br><br>  
   <div>
   <img align="center" alt="Jaime-PowerBI" height="40" width="40" src="https://img.icons8.com/color/2x/power-bi.png">
