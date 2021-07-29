@@ -4,11 +4,10 @@
   <div>
     
   <a>
-  <img height=180rem align="center" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&count_private=true&show_icons=true&theme=merko" />
-  </a>
-  <img height=180rem align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&theme=merko" />
-  </a>
-    <br><br>  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
+  
+  <br><br>  
   
   <div>
   <img align="center" alt="Jaime-PowerBI" height="40" width="40" src="https://img.icons8.com/color/2x/power-bi.png">
