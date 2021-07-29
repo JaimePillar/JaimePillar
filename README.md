@@ -4,11 +4,11 @@
   <div>
     
   <a>
-  <img height=170rem align="center" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&count_private=true&show_icons=true&theme=merko" />
+  <img height=180rem align="center" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&count_private=true&show_icons=true&theme=merko" />
   </a>
   
   <a>
-  <img height=170rem align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&theme=merko" />
+  <img height=180rem align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&theme=merko" />
   </a>
     <br><br>  
   
