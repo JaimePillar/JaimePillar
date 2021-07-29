@@ -1,16 +1,21 @@
-### Hi there 👋
-
-<!--
-**JaimePillar/JaimePillar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Eu sou Jaime Pillar 
+<a href="https://github.com/jaimepillar">
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimepillar&label=Profile%20views&color=0e75b6&style=flat" alt="jaimepillar" /> </p>
+  
+  
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
+<div style="display: inline_block"><br>
+  
+  <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=false" width="500" height="320" />
+ 
+  <img align="center" alt="Jaime-IBMWatson" height="50" width="50" src="https://img.icons8.com/officel/2x/ibm-watson.png">
+  <img align="center" alt="Jaime-PowerBI" height="50" width="50" src="https://img.icons8.com/color/2x/power-bi.png">
+  <img align="center" alt="Jaime-Docker" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Jaime-MONGODB" height="50" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original-wordmark.svg">
+  <img align="center" alt="Jaime-Jupyter" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original-wordmark.svg">
+  <img align="center" alt="Jaime-Matlab" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matlab/matlab-original.svg">
+  <img align="center" alt="Jaime-Postgresql" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original-wordmark.svg">
+  <img align="center" alt="Jaime-Python" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original-wordmark.svg">
+  <img align="center" alt="Jaime-R" height="40" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg">
+  
