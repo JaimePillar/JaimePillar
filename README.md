@@ -2,10 +2,10 @@
 <a href="https://github.com/jaimepillar">
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=jaimepillar&label=Profile%20views&color=0e75b6&style=flat" alt="jaimepillar" /> </p>
   
-  
+  <div>
+  <a href="https://github.com/jaimepillar">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jaimepillar&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
-<div style="display: inline_block"><br>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=jaimepillar&layout=compact&langs_count=7&theme=merko"/>
   
   <img align="right" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=false" width="500" height="320" />
  
